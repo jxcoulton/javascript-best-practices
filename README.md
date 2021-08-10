@@ -1,1 +1,0 @@
-# javascript-best-practices
